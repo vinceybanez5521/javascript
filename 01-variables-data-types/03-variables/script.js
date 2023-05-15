@@ -12,7 +12,7 @@ console.log(age);
 
 
 // Naming conventions
-// Only letters, numbers, underscores, underscores, and dollar signs
+// Only letters, numbers, underscores, and dollar signs
 // Can't start with a number
 // Use Camel Case for multi-word variables
 
